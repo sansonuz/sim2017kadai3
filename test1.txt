@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 test3
+=======
+test4
+>>>>>>> hoge
